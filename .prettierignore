@@ -1,0 +1,7 @@
+.next
+node_modules
+public
+src/content/imageManifest.json
+*.mdx
+test-results
+playwright-report

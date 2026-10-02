@@ -1,0 +1,1418 @@
+{
+ "/assets/img/logo-crc.svg": [
+  1955,
+  976
+ ],
+ "/assets/img/logos/american-red-cross.png": [
+  150,
+  90
+ ],
+ "/assets/img/logos/apto-solutions.png": [
+  220,
+  81
+ ],
+ "/assets/img/logos/arlo.png": [
+  92,
+  90
+ ],
+ "/assets/img/logos/avis.png": [
+  220,
+  74
+ ],
+ "/assets/img/logos/bank-of-america.png": [
+  218,
+  90
+ ],
+ "/assets/img/logos/bet.png": [
+  220,
+  85
+ ],
+ "/assets/img/logos/bettercloud.svg": [
+  410,
+  110
+ ],
+ "/assets/img/logos/bluevine.png": [
+  220,
+  38
+ ],
+ "/assets/img/logos/boundless.png": [
+  220,
+  42
+ ],
+ "/assets/img/logos/brands/alka-seltzer.png": [
+  1200,
+  198
+ ],
+ "/assets/img/logos/brands/avis.svg": [
+  181,
+  71
+ ],
+ "/assets/img/logos/brands/coca-cola.svg": [
+  615,
+  193
+ ],
+ "/assets/img/logos/brands/dominos.svg": [
+  163,
+  164
+ ],
+ "/assets/img/logos/brands/dove.svg": [
+  290,
+  110
+ ],
+ "/assets/img/logos/brands/harley-davidson.svg": [
+  142,
+  111
+ ],
+ "/assets/img/logos/brands/old-spice.svg": [
+  360,
+  104
+ ],
+ "/assets/img/logos/brands/red-bull.svg": [
+  607,
+  147
+ ],
+ "/assets/img/logos/brands/spotify.svg": [
+  559,
+  168
+ ],
+ "/assets/img/logos/brands/starbucks.svg": [
+  575,
+  57
+ ],
+ "/assets/img/logos/brands/virgin.svg": [
+  120,
+  105
+ ],
+ "/assets/img/logos/brands/volvo.svg": [
+  949,
+  74
+ ],
+ "/assets/img/logos/cbs-sports.png": [
+  220,
+  34
+ ],
+ "/assets/img/logos/cedars-sinai.png": [
+  220,
+  78
+ ],
+ "/assets/img/logos/charles-river-laboratories.png": [
+  220,
+  78
+ ],
+ "/assets/img/logos/chase.png": [
+  220,
+  41
+ ],
+ "/assets/img/logos/chevrontexaco.png": [
+  220,
+  23
+ ],
+ "/assets/img/logos/cisco.png": [
+  170,
+  90
+ ],
+ "/assets/img/logos/citi.png": [
+  139,
+  90
+ ],
+ "/assets/img/logos/cnet.png": [
+  90,
+  90
+ ],
+ "/assets/img/logos/coca-cola.png": [
+  220,
+  69
+ ],
+ "/assets/img/logos/collective-health.png": [
+  220,
+  37
+ ],
+ "/assets/img/logos/darden-restaurants.png": [
+  220,
+  58
+ ],
+ "/assets/img/logos/dialog-tech.png": [
+  220,
+  74
+ ],
+ "/assets/img/logos/ea.png": [
+  220,
+  87
+ ],
+ "/assets/img/logos/epcot-center.png": [
+  220,
+  57
+ ],
+ "/assets/img/logos/farmers-insurance.png": [
+  171,
+  90
+ ],
+ "/assets/img/logos/ford.png": [
+  220,
+  83
+ ],
+ "/assets/img/logos/gamespot.png": [
+  220,
+  69
+ ],
+ "/assets/img/logos/google.png": [
+  220,
+  72
+ ],
+ "/assets/img/logos/hard-rock-cafe.png": [
+  150,
+  90
+ ],
+ "/assets/img/logos/hawaiian-airlines.png": [
+  219,
+  57
+ ],
+ "/assets/img/logos/hp.png": [
+  90,
+  90
+ ],
+ "/assets/img/logos/htc.png": [
+  220,
+  72
+ ],
+ "/assets/img/logos/illumina.png": [
+  220,
+  50
+ ],
+ "/assets/img/logos/intel.png": [
+  220,
+  85
+ ],
+ "/assets/img/logos/lax.png": [
+  187,
+  90
+ ],
+ "/assets/img/logos/ledger.svg": [
+  383,
+  128
+ ],
+ "/assets/img/logos/mcafee.png": [
+  220,
+  43
+ ],
+ "/assets/img/logos/metajive.png": [
+  220,
+  48
+ ],
+ "/assets/img/logos/microsoft-store.png": [
+  300,
+  300
+ ],
+ "/assets/img/logos/moov.png": [
+  191,
+  90
+ ],
+ "/assets/img/logos/mtv.png": [
+  145,
+  90
+ ],
+ "/assets/img/logos/netgear.png": [
+  220,
+  32
+ ],
+ "/assets/img/logos/nickelodeon.png": [
+  220,
+  31
+ ],
+ "/assets/img/logos/nike.png": [
+  220,
+  79
+ ],
+ "/assets/img/logos/off-assignment.png": [
+  220,
+  39
+ ],
+ "/assets/img/logos/pepsico.png": [
+  220,
+  51
+ ],
+ "/assets/img/logos/phil-us.png": [
+  148,
+  90
+ ],
+ "/assets/img/logos/remark-growth-marketing.png": [
+  220,
+  20
+ ],
+ "/assets/img/logos/salesforce.png": [
+  129,
+  90
+ ],
+ "/assets/img/logos/sigfig.png": [
+  220,
+  81
+ ],
+ "/assets/img/logos/slack.png": [
+  220,
+  56
+ ],
+ "/assets/img/logos/sofi.png": [
+  220,
+  76
+ ],
+ "/assets/img/logos/sony.png": [
+  220,
+  38
+ ],
+ "/assets/img/logos/t-mobile.png": [
+  220,
+  30
+ ],
+ "/assets/img/logos/taberumo.png": [
+  219,
+  44
+ ],
+ "/assets/img/logos/the-hartford.png": [
+  127,
+  90
+ ],
+ "/assets/img/logos/the-walt-disney-company.png": [
+  173,
+  90
+ ],
+ "/assets/img/logos/tria-beauty.png": [
+  220,
+  78
+ ],
+ "/assets/img/logos/volvo.png": [
+  220,
+  30
+ ],
+ "/assets/img/logos/wacom.png": [
+  220,
+  40
+ ],
+ "/assets/img/logos/walt-disney-world.png": [
+  220,
+  44
+ ],
+ "/assets/img/logos/wells-fargo.png": [
+  300,
+  300
+ ],
+ "/assets/img/logos/wells-fargo.svg": [
+  302,
+  302
+ ],
+ "/assets/img/logos/westinghouse.png": [
+  90,
+  90
+ ],
+ "/assets/img/logos/xbox.png": [
+  220,
+  67
+ ],
+ "/assets/img/og/airline.png": [
+  1200,
+  630
+ ],
+ "/assets/img/og/apto-solutions.png": [
+  1200,
+  630
+ ],
+ "/assets/img/og/bettercloud.png": [
+  1200,
+  630
+ ],
+ "/assets/img/og/broadway.png": [
+  1200,
+  630
+ ],
+ "/assets/img/og/disney.png": [
+  1200,
+  630
+ ],
+ "/assets/img/og/ea.png": [
+  1200,
+  630
+ ],
+ "/assets/img/og/google-project-rebrief.png": [
+  1200,
+  630
+ ],
+ "/assets/img/og/google-ramayana.png": [
+  1200,
+  630
+ ],
+ "/assets/img/og/hard-rock-cafe.png": [
+  1200,
+  630
+ ],
+ "/assets/img/og/intel.png": [
+  1200,
+  630
+ ],
+ "/assets/img/og/ledger.png": [
+  1200,
+  630
+ ],
+ "/assets/img/og/microsoft.png": [
+  1200,
+  630
+ ],
+ "/assets/img/og/nickelodeon-kids-choice-awards.png": [
+  1200,
+  630
+ ],
+ "/assets/img/og/og-default.png": [
+  1200,
+  630
+ ],
+ "/assets/img/og/remark-growth-marketing.png": [
+  1200,
+  630
+ ],
+ "/assets/img/og/sony-connected-world.png": [
+  1200,
+  630
+ ],
+ "/assets/img/og/tria-beauty.png": [
+  1200,
+  630
+ ],
+ "/assets/img/og/usa-today.png": [
+  1200,
+  630
+ ],
+ "/assets/img/og/wacom.png": [
+  1200,
+  630
+ ],
+ "/assets/img/work/about/chris-rubin.jpg": [
+  850,
+  1151
+ ],
+ "/assets/img/work/about/session.jpg": [
+  1200,
+  633
+ ],
+ "/assets/img/work/airline/about-the-trip.jpg": [
+  960,
+  540
+ ],
+ "/assets/img/work/airline/airport-status.jpg": [
+  959,
+  541
+ ],
+ "/assets/img/work/airline/available-flights.jpg": [
+  1150,
+  647
+ ],
+ "/assets/img/work/airline/card.jpg": [
+  830,
+  519
+ ],
+ "/assets/img/work/airline/desktop.jpg": [
+  803,
+  648
+ ],
+ "/assets/img/work/airline/discover.jpg": [
+  966,
+  600
+ ],
+ "/assets/img/work/airline/explore.jpg": [
+  960,
+  545
+ ],
+ "/assets/img/work/airline/inspiration.jpg": [
+  1004,
+  622
+ ],
+ "/assets/img/work/airline/multi-city.jpg": [
+  480,
+  360
+ ],
+ "/assets/img/work/airline/tablet.jpg": [
+  501,
+  351
+ ],
+ "/assets/img/work/american-red-cross/card.jpg": [
+  1200,
+  750
+ ],
+ "/assets/img/work/apto-solutions/brief-1.jpg": [
+  1070,
+  512
+ ],
+ "/assets/img/work/apto-solutions/brief-2.jpg": [
+  847,
+  503
+ ],
+ "/assets/img/work/apto-solutions/bubble-ups.jpg": [
+  1253,
+  345
+ ],
+ "/assets/img/work/apto-solutions/card.jpg": [
+  860,
+  512
+ ],
+ "/assets/img/work/apto-solutions/deck.jpg": [
+  1291,
+  542
+ ],
+ "/assets/img/work/bettercloud/atrium.jpg": [
+  1200,
+  800
+ ],
+ "/assets/img/work/bettercloud/card.jpg": [
+  1200,
+  750
+ ],
+ "/assets/img/work/bettercloud/keynote.jpg": [
+  470,
+  500
+ ],
+ "/assets/img/work/bettercloud/panel.jpg": [
+  1200,
+  675
+ ],
+ "/assets/img/work/bettercloud/room.jpg": [
+  1200,
+  675
+ ],
+ "/assets/img/work/bettercloud/stage.jpg": [
+  1200,
+  675
+ ],
+ "/assets/img/work/broadway/card.jpg": [
+  830,
+  519
+ ],
+ "/assets/img/work/broadway/ipad.jpg": [
+  796,
+  607
+ ],
+ "/assets/img/work/broadway/layer.jpg": [
+  1025,
+  643
+ ],
+ "/assets/img/work/broadway/orientation.jpg": [
+  757,
+  477
+ ],
+ "/assets/img/work/broadway/show-detail.jpg": [
+  739,
+  558
+ ],
+ "/assets/img/work/broadway/shows.jpg": [
+  739,
+  557
+ ],
+ "/assets/img/work/broadway/sketchpad.jpg": [
+  725,
+  586
+ ],
+ "/assets/img/work/disney/anniversary.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/disney/boardwalk.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/disney/cover.jpg": [
+  713,
+  951
+ ],
+ "/assets/img/work/disney/old-key-west.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/disney/page-anniversary.jpg": [
+  713,
+  951
+ ],
+ "/assets/img/work/disney/page-boardwalk.jpg": [
+  713,
+  951
+ ],
+ "/assets/img/work/disney/page-club-news.jpg": [
+  713,
+  951
+ ],
+ "/assets/img/work/disney/page-food-n-fun.jpg": [
+  713,
+  951
+ ],
+ "/assets/img/work/disney/page-hilton-head.jpg": [
+  713,
+  951
+ ],
+ "/assets/img/work/disney/page-making-magic.jpg": [
+  713,
+  951
+ ],
+ "/assets/img/work/disney/page-old-key-west.jpg": [
+  713,
+  951
+ ],
+ "/assets/img/work/disney/page-remember-the-magic.jpg": [
+  713,
+  951
+ ],
+ "/assets/img/work/disney/page-vero-beach.jpg": [
+  713,
+  951
+ ],
+ "/assets/img/work/disney/remember-the-magic.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/disney/spread-1.jpg": [
+  1024,
+  768
+ ],
+ "/assets/img/work/disney/spread-2.jpg": [
+  1024,
+  768
+ ],
+ "/assets/img/work/disney/spread-3.jpg": [
+  1024,
+  768
+ ],
+ "/assets/img/work/disney/spread-4.jpg": [
+  1024,
+  768
+ ],
+ "/assets/img/work/disney/spread-club-news.jpg": [
+  950,
+  713
+ ],
+ "/assets/img/work/disney/spread-hilton-head-boardwalk.jpg": [
+  950,
+  713
+ ],
+ "/assets/img/work/disney/spread-making-magic-anniversary.jpg": [
+  950,
+  713
+ ],
+ "/assets/img/work/disney/spread-old-key-west-vero-beach.jpg": [
+  950,
+  713
+ ],
+ "/assets/img/work/disney/vacation-magic-cover.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/ea/auctions.jpg": [
+  1300,
+  763
+ ],
+ "/assets/img/work/ea/card-packs.jpg": [
+  414,
+  327
+ ],
+ "/assets/img/work/ea/card-profile.jpg": [
+  1097,
+  485
+ ],
+ "/assets/img/work/ea/card.jpg": [
+  830,
+  519
+ ],
+ "/assets/img/work/ea/cards.jpg": [
+  756,
+  702
+ ],
+ "/assets/img/work/ea/owners-box.jpg": [
+  1097,
+  745
+ ],
+ "/assets/img/work/ea/playbook.jpg": [
+  770,
+  508
+ ],
+ "/assets/img/work/google-project-rebrief/browser-mobile.jpg": [
+  980,
+  694
+ ],
+ "/assets/img/work/google-project-rebrief/challenge.jpg": [
+  358,
+  311
+ ],
+ "/assets/img/work/google-project-rebrief/coke-page.jpg": [
+  980,
+  607
+ ],
+ "/assets/img/work/google-project-rebrief/desktop.jpg": [
+  1083,
+  771
+ ],
+ "/assets/img/work/google-project-rebrief/folder.jpg": [
+  656,
+  451
+ ],
+ "/assets/img/work/google-project-rebrief/player-ios.jpg": [
+  761,
+  426
+ ],
+ "/assets/img/work/google-project-rebrief/video-player.jpg": [
+  982,
+  787
+ ],
+ "/assets/img/work/google-project-rebrief/volvo-ad.jpg": [
+  984,
+  644
+ ],
+ "/assets/img/work/google-project-rebrief/wire-to-design.jpg": [
+  767,
+  720
+ ],
+ "/assets/img/work/google-ramayana/canvas.jpg": [
+  940,
+  520
+ ],
+ "/assets/img/work/google-ramayana/card.jpg": [
+  830,
+  519
+ ],
+ "/assets/img/work/google-ramayana/characters-indonesia.jpg": [
+  1097,
+  368
+ ],
+ "/assets/img/work/google-ramayana/characters-thai.jpg": [
+  1078,
+  409
+ ],
+ "/assets/img/work/google-ramayana/demon.jpg": [
+  700,
+  390
+ ],
+ "/assets/img/work/google-ramayana/google-products.jpg": [
+  940,
+  420
+ ],
+ "/assets/img/work/google-ramayana/interface.jpg": [
+  711,
+  745
+ ],
+ "/assets/img/work/google-ramayana/map.jpg": [
+  1400,
+  651
+ ],
+ "/assets/img/work/google-ramayana/multiple-windows.jpg": [
+  700,
+  420
+ ],
+ "/assets/img/work/google-ramayana/poster.jpg": [
+  940,
+  524
+ ],
+ "/assets/img/work/google-ramayana/sketch-1.jpg": [
+  722,
+  413
+ ],
+ "/assets/img/work/google-ramayana/sketch-4.jpg": [
+  727,
+  502
+ ],
+ "/assets/img/work/google-ramayana/sketch-top.jpg": [
+  972,
+  709
+ ],
+ "/assets/img/work/google-ramayana/windows.jpg": [
+  934,
+  559
+ ],
+ "/assets/img/work/google/browser-mobile.jpg": [
+  980,
+  694
+ ],
+ "/assets/img/work/google/challenge.jpg": [
+  358,
+  311
+ ],
+ "/assets/img/work/google/coke-page.jpg": [
+  980,
+  607
+ ],
+ "/assets/img/work/google/desktop.jpg": [
+  1083,
+  771
+ ],
+ "/assets/img/work/google/folder.jpg": [
+  656,
+  451
+ ],
+ "/assets/img/work/google/player-ios.jpg": [
+  761,
+  426
+ ],
+ "/assets/img/work/google/rebrief.jpg": [
+  830,
+  340
+ ],
+ "/assets/img/work/google/video-player.jpg": [
+  982,
+  787
+ ],
+ "/assets/img/work/google/volvo-ad.jpg": [
+  984,
+  644
+ ],
+ "/assets/img/work/google/wire-to-design.jpg": [
+  767,
+  720
+ ],
+ "/assets/img/work/hard-rock-cafe/anniversary.jpg": [
+  1024,
+  768
+ ],
+ "/assets/img/work/hard-rock-cafe/around-the-clock.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/hard-rock-cafe/mystery-tour-clue-1.jpg": [
+  1000,
+  390
+ ],
+ "/assets/img/work/hard-rock-cafe/mystery-tour-clue-2.jpg": [
+  1000,
+  390
+ ],
+ "/assets/img/work/hard-rock-cafe/mystery-tour-clue-3.jpg": [
+  1000,
+  390
+ ],
+ "/assets/img/work/hard-rock-cafe/mystery-tour-logo.png": [
+  680,
+  600
+ ],
+ "/assets/img/work/hard-rock-cafe/online-hardrockcom.jpg": [
+  612,
+  400
+ ],
+ "/assets/img/work/hard-rock-cafe/online-logo.jpg": [
+  356,
+  400
+ ],
+ "/assets/img/work/hard-rock-cafe/online-merch.jpg": [
+  643,
+  400
+ ],
+ "/assets/img/work/hard-rock-cafe/online-pin-ol1.jpg": [
+  400,
+  400
+ ],
+ "/assets/img/work/hard-rock-cafe/online-pin-ol2.jpg": [
+  400,
+  400
+ ],
+ "/assets/img/work/hard-rock-cafe/online-pin-ol3.jpg": [
+  400,
+  400
+ ],
+ "/assets/img/work/hard-rock-cafe/online-pin-ol4.jpg": [
+  400,
+  400
+ ],
+ "/assets/img/work/hard-rock-cafe/online-rocknews.jpg": [
+  586,
+  400
+ ],
+ "/assets/img/work/hard-rock-cafe/online-xmascard.jpg": [
+  640,
+  464
+ ],
+ "/assets/img/work/hard-rock-cafe/rhn-contents.jpg": [
+  1024,
+  768
+ ],
+ "/assets/img/work/hard-rock-cafe/rhn-cover.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/hard-rock-cafe/rhn-credits.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/hard-rock-cafe/rhn-editor-letter.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/hard-rock-cafe/rhn-live.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/hard-rock-cafe/rhn-map.jpg": [
+  1024,
+  768
+ ],
+ "/assets/img/work/hard-rock-cafe/rhn-music-mix.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/hard-rock-cafe/rhn-premiere-letter.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/hard-rock-cafe/rocker-insider.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/hard-rock-cafe/rocker-memo.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/hard-rock-cafe/rocker-mission.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/hard-rock-cafe/rocker-pinpals.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/hard-rock-cafe/rocker-reports.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/hard-rock-cafe/rocker-santa.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/hard-rock-cafe/rocker-spirit.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/hard-rock-cafe/rocker-xxv.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/hard-rock-cafe/world-map.jpg": [
+  950,
+  713
+ ],
+ "/assets/img/work/intel/2in1-1.jpg": [
+  830,
+  1000
+ ],
+ "/assets/img/work/intel/2in1-2.jpg": [
+  830,
+  1000
+ ],
+ "/assets/img/work/intel/aio-1.jpg": [
+  830,
+  1000
+ ],
+ "/assets/img/work/intel/conflict-free-1.jpg": [
+  870,
+  1000
+ ],
+ "/assets/img/work/intel/conflict-free-2.jpg": [
+  870,
+  1000
+ ],
+ "/assets/img/work/intel/core-m-1.jpg": [
+  826,
+  1000
+ ],
+ "/assets/img/work/intel/core-m-2.jpg": [
+  826,
+  1000
+ ],
+ "/assets/img/work/intel/core-m.jpg": [
+  830,
+  491
+ ],
+ "/assets/img/work/intel/home-1.jpg": [
+  830,
+  1000
+ ],
+ "/assets/img/work/intel/home-2.jpg": [
+  830,
+  1063
+ ],
+ "/assets/img/work/ledger/in-context-1.jpg": [
+  1050,
+  1206
+ ],
+ "/assets/img/work/ledger/in-context-2.jpg": [
+  1050,
+  825
+ ],
+ "/assets/img/work/ledger/in-context-3.jpg": [
+  1050,
+  825
+ ],
+ "/assets/img/work/ledger/ledger-live.jpg": [
+  1050,
+  533
+ ],
+ "/assets/img/work/ledger/quest-site.jpg": [
+  1074,
+  606
+ ],
+ "/assets/img/work/ledger/quest.jpg": [
+  1029,
+  867
+ ],
+ "/assets/img/work/microsoft/ala-moana.jpg": [
+  850,
+  850
+ ],
+ "/assets/img/work/microsoft/bts-artist.jpg": [
+  1200,
+  674
+ ],
+ "/assets/img/work/microsoft/bts-collette.jpg": [
+  1200,
+  674
+ ],
+ "/assets/img/work/microsoft/bts-easton.jpg": [
+  850,
+  478
+ ],
+ "/assets/img/work/microsoft/bts-engineer.jpg": [
+  850,
+  478
+ ],
+ "/assets/img/work/microsoft/bts-mikaila.jpg": [
+  850,
+  478
+ ],
+ "/assets/img/work/microsoft/concept.jpg": [
+  1200,
+  674
+ ],
+ "/assets/img/work/microsoft/kit-badges.jpg": [
+  1264,
+  380
+ ],
+ "/assets/img/work/microsoft/kit-banner.jpg": [
+  836,
+  522
+ ],
+ "/assets/img/work/microsoft/kit-posters.jpg": [
+  1012,
+  644
+ ],
+ "/assets/img/work/microsoft/kit-tee-creator.jpg": [
+  714,
+  514
+ ],
+ "/assets/img/work/microsoft/kit-tee-dreamer.jpg": [
+  714,
+  514
+ ],
+ "/assets/img/work/microsoft/mixer-site.jpg": [
+  550,
+  1037
+ ],
+ "/assets/img/work/microsoft/store-option-3.jpg": [
+  533,
+  300
+ ],
+ "/assets/img/work/microsoft/store-paint-with-flavors.jpg": [
+  800,
+  616
+ ],
+ "/assets/img/work/microsoft/store-rocket.jpg": [
+  1066,
+  600
+ ],
+ "/assets/img/work/microsoft/story-bring-learning.jpg": [
+  804,
+  200
+ ],
+ "/assets/img/work/microsoft/story-ideas-roam-free.jpg": [
+  1228,
+  358
+ ],
+ "/assets/img/work/microsoft/story-ideas-take-shape.jpg": [
+  1228,
+  358
+ ],
+ "/assets/img/work/microsoft/story-stories-evolve.jpg": [
+  1230,
+  358
+ ],
+ "/assets/img/work/microsoft/story-surface-laptop.jpg": [
+  836,
+  200
+ ],
+ "/assets/img/work/microsoft/story-surface-pro-4.jpg": [
+  1240,
+  342
+ ],
+ "/assets/img/work/microsoft/story-surface-pro.jpg": [
+  804,
+  200
+ ],
+ "/assets/img/work/microsoft/xbox-table-detail.jpg": [
+  768,
+  1024
+ ],
+ "/assets/img/work/microsoft/xbox-table.jpg": [
+  1024,
+  768
+ ],
+ "/assets/img/work/microsoft/ys-banner.jpg": [
+  756,
+  404
+ ],
+ "/assets/img/work/microsoft/ys-certificate.jpg": [
+  1040,
+  602
+ ],
+ "/assets/img/work/microsoft/ys-flyer-3d.jpg": [
+  694,
+  602
+ ],
+ "/assets/img/work/microsoft/ys-flyer-business.jpg": [
+  284,
+  301
+ ],
+ "/assets/img/work/microsoft/ys-flyer.jpg": [
+  284,
+  301
+ ],
+ "/assets/img/work/microsoft/ys-ppt.jpg": [
+  856,
+  514
+ ],
+ "/assets/img/work/microsoft/ys-social.jpg": [
+  1050,
+  572
+ ],
+ "/assets/img/work/nickelodeon-kids-choice-awards/app-1.jpg": [
+  830,
+  465
+ ],
+ "/assets/img/work/nickelodeon-kids-choice-awards/app-2.jpg": [
+  830,
+  640
+ ],
+ "/assets/img/work/nickelodeon-kids-choice-awards/app-3.jpg": [
+  830,
+  720
+ ],
+ "/assets/img/work/nickelodeon-kids-choice-awards/countdown.jpg": [
+  830,
+  700
+ ],
+ "/assets/img/work/nickelodeon-kids-choice-awards/hero.jpg": [
+  830,
+  820
+ ],
+ "/assets/img/work/nickelodeon-kids-choice-awards/sketches.jpg": [
+  830,
+  1450
+ ],
+ "/assets/img/work/nickelodeon-kids-choice-awards/takeaway.jpg": [
+  830,
+  1005
+ ],
+ "/assets/img/work/nickelodeon-kids-choice-awards/ux.jpg": [
+  830,
+  1250
+ ],
+ "/assets/img/work/nickelodeon/app-1.jpg": [
+  830,
+  730
+ ],
+ "/assets/img/work/nickelodeon/app-2.jpg": [
+  830,
+  700
+ ],
+ "/assets/img/work/nickelodeon/app-3.jpg": [
+  830,
+  720
+ ],
+ "/assets/img/work/nickelodeon/countdown.jpg": [
+  830,
+  700
+ ],
+ "/assets/img/work/nickelodeon/hero.jpg": [
+  830,
+  820
+ ],
+ "/assets/img/work/nickelodeon/kca.jpg": [
+  830,
+  330
+ ],
+ "/assets/img/work/nickelodeon/sketches.jpg": [
+  830,
+  1450
+ ],
+ "/assets/img/work/nickelodeon/takeaway.jpg": [
+  830,
+  1005
+ ],
+ "/assets/img/work/nickelodeon/ux.jpg": [
+  830,
+  1250
+ ],
+ "/assets/img/work/pitchcraft/premera-1.jpg": [
+  1490,
+  837
+ ],
+ "/assets/img/work/pitchcraft/premera-10.jpg": [
+  1490,
+  837
+ ],
+ "/assets/img/work/pitchcraft/premera-2.jpg": [
+  1490,
+  837
+ ],
+ "/assets/img/work/pitchcraft/premera-3.jpg": [
+  1490,
+  837
+ ],
+ "/assets/img/work/pitchcraft/premera-4.jpg": [
+  1490,
+  837
+ ],
+ "/assets/img/work/pitchcraft/premera-5.jpg": [
+  1490,
+  837
+ ],
+ "/assets/img/work/pitchcraft/premera-7.jpg": [
+  1490,
+  837
+ ],
+ "/assets/img/work/pitchcraft/premera-8.jpg": [
+  1490,
+  837
+ ],
+ "/assets/img/work/pitchcraft/premera-9.jpg": [
+  1490,
+  837
+ ],
+ "/assets/img/work/pitchcraft/session.jpg": [
+  1600,
+  843
+ ],
+ "/assets/img/work/pitchcraft/sfih-1.jpg": [
+  1024,
+  576
+ ],
+ "/assets/img/work/pitchcraft/sfih-2.jpg": [
+  1024,
+  576
+ ],
+ "/assets/img/work/pitchcraft/sfih-3.jpg": [
+  1024,
+  576
+ ],
+ "/assets/img/work/pitchcraft/sfih-4.jpg": [
+  1024,
+  576
+ ],
+ "/assets/img/work/pitchcraft/sfih-5.jpg": [
+  1024,
+  576
+ ],
+ "/assets/img/work/remark-growth-marketing/brief-1.jpg": [
+  1225,
+  508
+ ],
+ "/assets/img/work/remark-growth-marketing/brief-2.jpg": [
+  1077,
+  506
+ ],
+ "/assets/img/work/remark-growth-marketing/brief-3.jpg": [
+  941,
+  506
+ ],
+ "/assets/img/work/remark-growth-marketing/card.jpg": [
+  860,
+  508
+ ],
+ "/assets/img/work/sony-connected-world/concept.jpg": [
+  830,
+  985
+ ],
+ "/assets/img/work/sony-connected-world/final-design.jpg": [
+  830,
+  781
+ ],
+ "/assets/img/work/sony-connected-world/hero.jpg": [
+  830,
+  682
+ ],
+ "/assets/img/work/sony-connected-world/illustrations.jpg": [
+  830,
+  896
+ ],
+ "/assets/img/work/sony-connected-world/mission.jpg": [
+  830,
+  683
+ ],
+ "/assets/img/work/sony-connected-world/navigation.jpg": [
+  830,
+  896
+ ],
+ "/assets/img/work/sony-connected-world/one-story.jpg": [
+  830,
+  439
+ ],
+ "/assets/img/work/sony-connected-world/photoshoot.jpg": [
+  830,
+  986
+ ],
+ "/assets/img/work/sony-connected-world/takeaway.jpg": [
+  830,
+  896
+ ],
+ "/assets/img/work/sony-connected-world/technology.jpg": [
+  830,
+  896
+ ],
+ "/assets/img/work/sony/connected-world.jpg": [
+  830,
+  519
+ ],
+ "/assets/img/work/tria-beauty/brief-1.jpg": [
+  1522,
+  512
+ ],
+ "/assets/img/work/tria-beauty/brief-2.jpg": [
+  1235,
+  509
+ ],
+ "/assets/img/work/tria-beauty/brief-3.jpg": [
+  1103,
+  508
+ ],
+ "/assets/img/work/tria-beauty/brief-4.jpg": [
+  1210,
+  512
+ ],
+ "/assets/img/work/tria-beauty/card-product.jpg": [
+  1080,
+  675
+ ],
+ "/assets/img/work/tria-beauty/card.jpg": [
+  860,
+  509
+ ],
+ "/assets/img/work/tria-beauty/product-4x-exploded.jpg": [
+  1080,
+  1080
+ ],
+ "/assets/img/work/tria-beauty/product-4x.jpg": [
+  1000,
+  1000
+ ],
+ "/assets/img/work/tria-beauty/product-frx-exploded.jpg": [
+  1080,
+  1080
+ ],
+ "/assets/img/work/tria-beauty/product-frx-in-hand.jpg": [
+  1200,
+  675
+ ],
+ "/assets/img/work/tria-beauty/product-frx.jpg": [
+  1000,
+  1000
+ ],
+ "/assets/img/work/tria-beauty/product-in-hand.jpg": [
+  600,
+  800
+ ],
+ "/assets/img/work/usa-today/card.jpg": [
+  830,
+  519
+ ],
+ "/assets/img/work/usa-today/devices.jpg": [
+  830,
+  901
+ ],
+ "/assets/img/work/usa-today/discovery.jpg": [
+  830,
+  901
+ ],
+ "/assets/img/work/usa-today/fi-wins.jpg": [
+  830,
+  900
+ ],
+ "/assets/img/work/usa-today/impact.jpg": [
+  830,
+  900
+ ],
+ "/assets/img/work/usa-today/logo.jpg": [
+  830,
+  901
+ ],
+ "/assets/img/work/usa-today/modules.jpg": [
+  830,
+  901
+ ],
+ "/assets/img/work/usa-today/net-magazine.jpg": [
+  830,
+  901
+ ],
+ "/assets/img/work/usa-today/pages.jpg": [
+  830,
+  900
+ ],
+ "/assets/img/work/usa-today/pitch.jpg": [
+  830,
+  900
+ ],
+ "/assets/img/work/usa-today/reimagination.jpg": [
+  830,
+  901
+ ],
+ "/assets/img/work/usa-today/ux-design.jpg": [
+  830,
+  901
+ ],
+ "/assets/img/work/wacom/card.jpg": [
+  830,
+  519
+ ],
+ "/assets/img/work/wacom/cintiq.jpg": [
+  830,
+  923
+ ],
+ "/assets/img/work/wacom/community.jpg": [
+  830,
+  858
+ ],
+ "/assets/img/work/wacom/discovery.jpg": [
+  830,
+  826
+ ],
+ "/assets/img/work/wacom/hero.jpg": [
+  830,
+  647
+ ],
+ "/assets/img/work/wacom/icons.jpg": [
+  830,
+  1272
+ ],
+ "/assets/img/work/wacom/inspires.jpg": [
+  830,
+  842
+ ],
+ "/assets/img/work/wacom/navigation.jpg": [
+  830,
+  778
+ ],
+ "/assets/img/work/wacom/pro-pen.jpg": [
+  830,
+  923
+ ],
+ "/assets/img/work/wacom/product-page.jpg": [
+  830,
+  860
+ ],
+ "/assets/img/work/wacom/products.jpg": [
+  830,
+  816
+ ],
+ "/assets/img/work/wacom/tiles.jpg": [
+  830,
+  826
+ ],
+ "/assets/img/work/wacom/tokyo.jpg": [
+  830,
+  552
+ ]
+}

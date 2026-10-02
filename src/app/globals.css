@@ -1,0 +1,172 @@
+@import "tailwindcss";
+
+/*
+ * ChrisRubinCreativ "Continuum" design system.
+ * House accent: CRC blue. BrandMultiplier purple only on BrandMultiplier elements.
+ */
+@theme {
+  --color-bg: #0b0a12;
+  --color-s1: #14121f;
+  --color-s2: #1c1a2a;
+  --color-ink: #efeef7;
+  --color-muted: #a19db8;
+  --color-line: #2a2740;
+  --color-blue: #5b8cff;
+  --color-crcblue: #4585ff;
+  --color-bmp: #8a83f2;
+  --color-brand: #4940c6;
+  --color-brand-ink: #e4e2fa;
+  --color-spark: #f36901;
+  --color-amber: #ffb347;
+  --color-amber-dim: #b8782a;
+  --color-amber-light: #ffe2b5;
+  --color-crt: #120c05;
+  --color-crt-bar: #1d150a;
+  --color-crt-edge: #3a2a14;
+  --color-gold: #d6a53a;
+
+  --font-disp: var(--font-archivo), "Helvetica Neue", Arial, sans-serif;
+  --font-mono: var(--font-jetbrains), ui-monospace, Menlo, monospace;
+  --font-term: var(--font-vt323), var(--font-jetbrains), ui-monospace, monospace;
+
+  /* Breakpoints match the original stylesheet's max-width queries (560, 640, 760, 900). */
+  --breakpoint-xs: 35rem;
+  --breakpoint-sm: 40rem;
+  --breakpoint-md: 47.5rem;
+  --breakpoint-lg: 56.25rem;
+
+  --spacing-gutter: clamp(16px, 4vw, 48px);
+  --container-site: 1200px;
+
+  --animate-logos: logos 90s linear infinite;
+  --animate-blink: blink 1s steps(1) infinite;
+
+  @keyframes logos {
+    from {
+      transform: translate3d(0, 0, 0);
+    }
+    to {
+      transform: translate3d(calc(-50% - 32px), 0, 0);
+    }
+  }
+  @keyframes blink {
+    50% {
+      opacity: 0;
+    }
+  }
+}
+
+/* Fluid type scale, lifted value-for-value from the approved build. */
+@utility text-hero {
+  font-size: clamp(38px, 6vw, 82px);
+}
+@utility text-page {
+  font-size: clamp(38px, 6.5vw, 88px);
+}
+@utility text-section {
+  font-size: clamp(28px, 3.4vw, 40px);
+}
+@utility text-lede {
+  font-size: clamp(18px, 1.8vw, 22px);
+}
+@utility text-client {
+  font-size: clamp(44px, 8vw, 110px);
+}
+@utility text-result {
+  font-size: clamp(64px, 12vw, 160px);
+}
+@utility text-result-words {
+  font-size: clamp(40px, 7vw, 96px);
+}
+@utility text-bm {
+  font-size: clamp(34px, 5.4vw, 68px);
+}
+
+/* Full-bleed horizontal scrollers: extend to the viewport gutter, keep content aligned. */
+@utility bleed-x {
+  margin-inline: calc(-1 * var(--spacing-gutter));
+  padding-inline: var(--spacing-gutter);
+}
+
+@layer base {
+  html {
+    color-scheme: dark;
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+  body {
+    background: var(--color-bg);
+    color: var(--color-ink);
+    font-family: var(--font-disp);
+    font-size: 17px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  a {
+    color: inherit;
+  }
+  img,
+  svg,
+  video {
+    max-width: 100%;
+  }
+  p,
+  li,
+  dd,
+  figcaption {
+    text-wrap: pretty;
+  }
+  h1,
+  h2,
+  h3 {
+    text-wrap: balance;
+  }
+  :where(a, button, input, textarea, summary):focus-visible {
+    outline: 2px solid var(--color-spark);
+    outline-offset: 3px;
+  }
+  :where(button) {
+    cursor: pointer;
+  }
+}
+
+@layer components {
+  /* CRT scanlines over the adventure screen. */
+  .crt-scanlines::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background: repeating-linear-gradient(
+      to bottom,
+      rgb(0 0 0 / 0) 0 2px,
+      rgb(0 0 0 / 0.18) 2px 3px
+    );
+  }
+
+  /* Timeline rail: CRC blue into BrandMultiplier purple into spark. */
+  .timeline-rail::before {
+    content: "";
+    position: absolute;
+    inset-inline: 0;
+    top: 26px;
+    height: 2px;
+    background: linear-gradient(
+      90deg,
+      var(--color-crcblue) 0%,
+      var(--color-crcblue) 60%,
+      var(--color-bmp) 76%,
+      var(--color-spark) 86%,
+      var(--color-spark) 100%
+    );
+  }
+
+  .scrollbar-thin {
+    scrollbar-color: var(--color-line) transparent;
+  }
+}
