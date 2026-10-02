@@ -9,7 +9,7 @@ export const CONTACT_EMAIL = "info@chrisrubincreativ.com";
 
 /** The BrandMultiplier Diagnostic booking page. UTMs are appended at runtime by <DiagnosticLink>. */
 export const DIAGNOSTIC_URL =
-  "https://calendly.com/book-crc/the-narrative-gap-read-20-min-with-chris";
+  "https://calendly.com/book-crc/the-diagnostic-20-min-with-chris";
 export const DIAGNOSTIC_UTM = {
   utm_source: "crc",
   utm_medium: "site",
